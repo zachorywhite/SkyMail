@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4097d59a-ae50-469f-88bb-fd681ceb8d41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lOAq3FYaeaQa5psyWQG25FrOlX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\JavaProjects\CSC 133 Projects\A3Prj\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run in Device Simulator" type="#com.codename1.plugin.intellij.run.CodenameOneConfigurationType" factoryName="Codename One" temporary="true">
+      <setting name="mainClass" value="org.csc133.a3.AppMain" />
+      <setting name="vmparams" value="" />
+      <setting name="workDir" value="" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Codename One.Run in Device Simulator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4097d59a-ae50-469f-88bb-fd681ceb8d41" name="Default Changelist" comment="" />
+      <created>1607457950434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607457950434</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="197" key="GridCell.Tab.0.bottom" timestamp="1650926502883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1650926502883" />
+    <state width="1877" height="197" key="GridCell.Tab.0.center" timestamp="1650926502883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="197" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1650926502883" />
+    <state width="1877" height="197" key="GridCell.Tab.0.left" timestamp="1650926502883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="197" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1650926502883" />
+    <state width="1877" height="197" key="GridCell.Tab.0.right" timestamp="1650926502883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="197" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1650926502883" />
+    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1650926473393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1650926473393" />
+  </component>
+</project>
